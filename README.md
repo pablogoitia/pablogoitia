@@ -1,5 +1,3 @@
-### Building Profile... 🚧 Adding repos and much more 😉
-
 ### Hi there, I'm Pablo! 👋
 #### Undergraduate BSc in Computer Engineering Student
 
