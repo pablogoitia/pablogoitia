@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Pablo! 👋
+#### Undergraduate BSc in Computer Engineering Student
+
+- 📖 I’m currently studying Computer Engineering at University of Cantabria (Spain)
+- 📫 How to reach me: pablogoitia01@gmail.com / pablo.goitia@unican.es
+
+#### Programming Languages
+- Java
+- Python
+- C
+- Assembly
+- SQL
+- C++
+- ADA
+
+#SoftwareDevelopment #Supercomputing #Networks #Cybersec
+
 
 <!--
 **pablogoitia/pablogoitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
