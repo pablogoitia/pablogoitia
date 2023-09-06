@@ -2,7 +2,7 @@
 #### Undergraduate BSc in Computer Engineering Student
 
 - 📖 I’m currently studying Computer Engineering at University of Cantabria (Spain)
-- 📫 How to reach me: pablogoitia01@gmail.com / pablo.goitia@unican.es
+- 📫 How to reach me: pablogoitia01@gmail.com
 
 #### Programming Languages
 - Java
