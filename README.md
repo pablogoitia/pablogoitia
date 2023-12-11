@@ -1,7 +1,7 @@
 ### Hi there, I'm Pablo! 👋
-#### Undergraduate BSc in Computer Engineering Student
+#### BSc in Computer Engineering Student
 
-- 📖 I’m currently studying Computer Engineering at University of Cantabria (Spain)
+- 📖 I’m currently studying Computer Science Engineering at University of Cantabria (Spain)
 - 📫 How to reach me: pablogoitia01@gmail.com
 
 #### Programming Languages
