@@ -13,7 +13,7 @@
 - C++
 - ADA
 
-#SoftwareDevelopment #Supercomputing #Networks #Cybersec
+#SoftwareDevelopment #Supercomputing
 
 
 <!--
