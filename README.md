@@ -4,16 +4,13 @@
 - 📖 I’m currently studying Computer Science Engineering at University of Cantabria (Spain)
 - 📫 How to reach me: pablogoitia01@gmail.com
 
-#### Programming Languages
-- Java
-- Python
-- C
-- Assembly
-- SQL
-- C++
-- ADA
+<!--
+| ![](https://github-readme-stats.vercel.app/api?username=pablogoitia&theme=transparent&rank_icon=github&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&number_format=long) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablogoitia&layout=compact&theme=transparent&langs_count=8&exclude_repo=Basys3_Breakout_Game&hide=TSQL) |
+|:--:|:--:|
+-->
 
-#SoftwareDevelopment #Supercomputing
+#### Programming Languages
+Java, Python, C, Assembly, SQL, C++, ADA and more...
 
 
 <!--
