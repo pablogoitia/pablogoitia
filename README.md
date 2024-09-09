@@ -1,29 +1,10 @@
 ### Hi there, I'm Pablo! 👋
-#### BSc in Computer Engineering Student
+#### Computer Systems Engineer
 
-- 📖 I’m currently studying Computer Science Engineering at University of Cantabria (Spain)
+- 📖 I’m currently studying a MSc in Computer Science at the University of Cantabria (Spain)
 - 📫 How to reach me: pablogoitia01@gmail.com
 
-<!--
-| ![](https://github-readme-stats.vercel.app/api?username=pablogoitia&theme=transparent&rank_icon=github&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&number_format=long) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablogoitia&layout=compact&theme=transparent&langs_count=8&exclude_repo=Basys3_Breakout_Game&hide=TSQL) |
-|:--:|:--:|
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablogoitia&layout=compact&theme=transparent&langs_count=8&exclude_repo=Basys3_Breakout_Game&hide=TSQL)
 
 #### Programming Languages
-Java, Python, C, Assembly, SQL, C++, ADA and more...
-
-
-<!--
-**pablogoitia/pablogoitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java, Python, C, Assembly, SQL, C++, ADA...
