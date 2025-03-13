@@ -5,6 +5,3 @@
 - 📫 How to reach me: pablogoitia01@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablogoitia&layout=compact&theme=transparent&langs_count=8&exclude_repo=Basys3_Breakout_Game&hide=TSQL)
-
-#### Programming Languages
-Java, Python, C, Assembly, SQL, C++, ADA...
